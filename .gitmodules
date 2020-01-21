@@ -1,0 +1,9 @@
+[submodule "queue-messaging"]
+	path = queue-messaging
+	url = https://github.com/imadmaachari/queue-messaging.git
+[submodule "terminal"]
+	path = terminal
+	url = https://github.com/imadmaachari/terminal.git
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/imadmaachari/workspace.git
